@@ -71,3 +71,20 @@
 ## Yelp
 
 ## DBLP
+(Note: author_map_id.dat map the author id to the unique id)
+### Entity Statistics
+| Entity         |#Entity        |
+| :-------------:|:-------------:|
+| Author         | 14,475        |
+| Paper          | 14,376        |
+| Author_label   | 4             |
+| Conference     | 20            |
+| Type           | 8920          |
+
+### Relation Statistics
+| Entity             |#Entity        |
+| :-----------------:|:-------------:|
+| Author - Label     | 4,057         |
+| Paper - Author     | 41,794        |
+| Paper - Conference | 14,376        |
+| Paper - Type       | 114,624       |
