@@ -69,6 +69,24 @@
 ## LastFM
 
 ## Yelp
+(Containing rating information)
+### Entity Statistics
+| Entity         |#Entity        |
+| :-------------:|:-------------:|
+| User           | 16,239        |
+| Business       | 14,284        |
+| Compliment     | 11            |
+| Category       | 47            | 
+| City           | 511           |
+
+### Relation Statistics
+| Relation            |#Relation      |
+| :------------------:|:-------------:|
+| User - Business     | 198,397       |
+| User - User         | 158,590       |
+| User - Compliment   | 76,875        |
+| Business - City     | 14,267        |
+| Business - Category | 40,009        |
 
 ## DBLP
 (Note: author_map_id.dat map the author id to the unique id)
