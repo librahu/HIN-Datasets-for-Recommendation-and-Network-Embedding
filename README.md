@@ -4,6 +4,8 @@
 
 ## Douban Movie
 
+(Containing rating information)
+
 ### Entity Statistics
 | Entity         |#Entity        |
 | :-------------:|:-------------:|
