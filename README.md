@@ -2,7 +2,9 @@
 
 ## MovieLens
 (Containing rating and timestamp information)
+
 (Note: We utilize the Pearson's coefficient to measure the similiarities in the KNN algorithm)
+
 (Source : https://grouplens.org/datasets/movielens/)
 
 | Entity         |#Entity        |
@@ -71,6 +73,7 @@
 | Book - Year       | 21,192        |
 ## Amazon
 (Containing rating and timestamp information)
+
 (Source : http://jmcauley.ucsd.edu/data/amazon/)
 ### Entity Statistics
 | Entity         |#Entity        |
@@ -90,6 +93,7 @@
 | Item - Brand      | 2,753         |
 ## LastFM
 (Note: We utilize the Pearson's coefficient to measure the similiarities in the KNN algorithm)
+
 (Source : https://grouplens.org/datasets/hetrec-2011/)
 
 ### Entity Statistics
