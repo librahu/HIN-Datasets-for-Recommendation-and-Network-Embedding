@@ -67,6 +67,7 @@
 | Item - Category   | 5,508         | 
 | Item - Brand      | 2,753         |
 ## LastFM
+(Note: We utilize the Pearson's coefficient to measure the similiarities in the KNN algorithm)
 
 ### Entity Statistics
 | Entity         |#Entity        |
