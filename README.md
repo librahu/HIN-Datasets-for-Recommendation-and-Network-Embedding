@@ -79,7 +79,7 @@
 | Paper          | 14,376        |
 | Author_label   | 4             |
 | Conference     | 20            |
-| Type           | 8920          |
+| Type           | 8,920          |
 
 ### Relation Statistics
 | Entity             |#Entity        |
