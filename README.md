@@ -68,6 +68,22 @@
 | Item - Brand      | 2,753         |
 ## LastFM
 
+### Entity Statistics
+| Entity         |#Entity        |
+| :-------------:|:-------------:|
+| User           | 1,892         |
+| Artist         | 17,632        |
+| Tag            | 11,945        |
+
+## Relation Statistics
+| Relation               |#Relation      |
+| :-------------:        |:-------------:|
+| User - Artist          | 92834         |
+| User - User (Original) | 25,434        |
+| User - User (KNN)      | 18,802        |
+| Artist - Artist (KNN)  | 153,399       |
+| Artist - Tag           | 184,941       |
+
 ## Yelp
 (Containing rating information)
 ### Entity Statistics
