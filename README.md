@@ -1,6 +1,27 @@
 # DatasetInPaper
 
 ## MovieLens
+(Containing rating and timestamp information)
+(Note: We utilize the Pearson's coefficient to measure the similiarities in the KNN algorithm)
+(Source : https://grouplens.org/datasets/movielens/)
+
+| Entity         |#Entity        |
+| :-------------:|:-------------:|
+| User           | 943           |
+| Age            | 8             |
+| Occupation     | 21            |
+| Movie          | 1,682         |
+| Genre          | 18            |
+
+### Relation Statistics
+| Relation            |#Relation      |
+| :-------------:     |:-------------:|
+| User - Movie        | 100,000       |
+| User - User (KNN)   | 47,150        |
+| User - Age          | 943           |
+| User - Occupation   | 943           |
+| Movie - Movie (KNN) | 82,798        |
+| Movie - Genre       | 2,861         |
 
 ## Douban Movie
 (Containing rating information)
@@ -50,6 +71,7 @@
 | Book - Year       | 21,192        |
 ## Amazon
 (Containing rating and timestamp information)
+(Source : http://jmcauley.ucsd.edu/data/amazon/)
 ### Entity Statistics
 | Entity         |#Entity        |
 | :-------------:|:-------------:|
@@ -68,6 +90,7 @@
 | Item - Brand      | 2,753         |
 ## LastFM
 (Note: We utilize the Pearson's coefficient to measure the similiarities in the KNN algorithm)
+(Source : https://grouplens.org/datasets/hetrec-2011/)
 
 ### Entity Statistics
 | Entity         |#Entity        |
