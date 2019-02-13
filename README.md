@@ -165,7 +165,7 @@
 | Type           | 8,920          |
 
 ### Relation Statistics
-| Entity             |#Entity        |
+| Relation             |#Relation        |
 | :-----------------:|:-------------:|
 | Author - Label     | 4,057         |
 | Paper - Author     | 41,794        |
@@ -184,7 +184,7 @@
 | Reference      | 147,251       |
 
 ### Relation Statistics
-| Entity             |#Entity        |
+| Relation             |#Relation        |
 | :-----------------:|:-------------:|
 | Paper - Label      | 127,623       |
 | Paper - Author     | 355,072       |
