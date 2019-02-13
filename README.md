@@ -132,6 +132,27 @@
 | Business - City     | 14,267        |
 | Business - Category | 40,009        |
 
+## Yelp-2
+(Containing rating information)
+### Entity Statistics
+| Entity         |#Entity        |
+| :-------------:|:-------------:|
+| User           | 1,286         |
+| Business       | 2,614         |
+| Service        | 2             |
+| Star level     | 9             | 
+| Reservation    | 2             |
+| Category       | 3             |
+
+### Relation Statistics
+| Relation                |#Relation      |
+| :----------------------:|:-------------:|
+| User - Business         | 30,838        |
+| Bussiness - Service     | 2,614         |
+| Bussiness - Star level  | 2,614         |
+| Business - Revervation  | 2,614         |
+| Business - Category     | 2,614         |
+
 ## DBLP
 (Note: author_map_id.dat map the author id to the unique id)
 ### Entity Statistics
@@ -150,3 +171,23 @@
 | Paper - Author     | 41,794        |
 | Paper - Conference | 14,376        |
 | Paper - Type       | 114,624       |
+
+## Aminer
+(Note: author_map_id.dat map the author id to the unique id)
+### Entity Statistics
+| Entity         |#Entity        |
+| :-------------:|:-------------:|
+| Author         | 164,472       |
+| Paper          | 127,623       |
+| Papel_label    | 10            |
+| Conference     | 101           |
+| Reference      | 147,251       |
+
+### Relation Statistics
+| Entity             |#Entity        |
+| :-----------------:|:-------------:|
+| Paper - Label      | 127,623       |
+| Paper - Author     | 355,072       |
+| Paper - Conference | 127,632       |
+| Paper - Reference  | 392,519       |
+
