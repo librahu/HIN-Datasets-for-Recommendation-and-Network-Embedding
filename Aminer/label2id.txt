@@ -1,0 +1,10 @@
+Software_engineering.txt	8
+Human_computer_interaction_Ubiquitous_computing.txt	3
+Computer_networks.txt	6
+Compter_graphics_Multimedia.txt	0
+Interdisciplinary_Studies.txt	4
+Artificial_intelligence.txt	2
+Information_security.txt	7
+High-Performance_Computing.txt	9
+Theoretical_computer_science.txt	5
+Database_Data mining_Information_retrieval.txt	1

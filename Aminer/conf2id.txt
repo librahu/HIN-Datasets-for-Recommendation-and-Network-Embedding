@@ -1,0 +1,101 @@
+Neural Networks	28
+Advanced Engineering Informatics	13
+Information Retrieval	18
+MICRO	100
+IEEE Transactions on Image Processing	0
+IEEE Transactions on Multimedia	4
+Natural Language Engineering	42
+International Journal of Computer Vision	21
+Briefings in Bioinformatics	50
+Decision Support Systems	31
+Journal of Systems and Software	86
+Artificial Life	30
+International Journal of Geographical Information Science	19
+Service Oriented Computing and Applications	89
+IEEE Transactions on Communications	98
+INFORMS Journal on Computing	62
+BMC Bioinformatics	49
+Computer Communications	71
+Networks	75
+Signal Processing	7
+Proceedings of the IEEE	47
+ACM Symposium on User Interface Software and Technology	91
+Computer Aided Geometric Design	2
+Personal and Ubiquitous Computing	46
+Pattern Recognition Letters	36
+IEEE Conference on Computational Complexity	68
+IET Software	85
+GeoInformatica	14
+Natural Computing	27
+USENIX Security Symposium	82
+Algorithmica	59
+Pattern Recognition	29
+International Conference on Supercomputing	95
+Ad Hoc Networks	77
+Theoretical Computer Science	64
+Graphical Models	3
+The Visual Computer	8
+Computers & Security	79
+Computational Linguistics	24
+Distributed and Parallel Databases	16
+Computational Intelligence	32
+SCIENCE CHINA Information Sciences	53
+Computational Complexity	60
+Mathematical Structures in Computer Science	63
+Journal of Machine Learning Research	22
+EuroSys	94
+Requirements Engineering	87
+IEEE Transactions on Robotics	52
+Neurocomputing	37
+Selected Areas in Cryptography	83
+Distributed Computing	92
+Neural Processing Letters	39
+Computer Networks	69
+Fuzzy Sets and Systems	34
+IEEE Transactions on Information Technology in Biomedicine	56
+Computer Vision and Image Understanding	25
+IEEE Transactions on Information Forensics and Security	78
+Web Intelligence and Agent Systems	40
+Security and Communication Networks	81
+Neural Computation	38
+Bioinformatics	48
+Formal Methods in System Design	61
+European Test Symposium	97
+Cluster Computing	96
+Wireless Networks	74
+Discrete & Computational Geometry	6
+Information Systems	15
+ACM Transactions on Algorithms	58
+PLoS Computational Biology	51
+Journal of Computer Security	80
+Empirical Software Engineering	84
+Speech Communication	5
+Expert Systems	33
+Symposium on Solid and Physical Modeling	12
+Pervasive and Mobile Computing	45
+Parallel Computing	99
+Peer-to-Peer Networking and Applications	73
+IEEE Transactions on Wireless Communications	70
+Human computer interaction	43
+Machine Translation	35
+Medical Image Analysis	57
+Cybernetics and Systems	55
+Logical Methods in Computer Science	67
+Computer Supported Cooperative Work	41
+Higher-Order and Symbolic Computation	66
+Software and System Modeling	88
+Software Quality Journal	90
+IEEE Transactions on Network and Service Management	72
+Information and Management	17
+The Journal of Supercomputing	93
+Discrete Applied Mathematics	65
+Shape Modeling International	11
+Frontiers of computer science	54
+Data Compression Conference	9
+Machine Learning	26
+Evolutionary Computation	23
+Computer-Aided Design	1
+Computer Graphics International	10
+Interacting with Computers	44
+Internet Measurement Conference	76
+Artificial Intelligence	20
