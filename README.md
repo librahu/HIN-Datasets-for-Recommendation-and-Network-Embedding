@@ -120,8 +120,8 @@
 | User           | 16,239        |
 | Business       | 14,284        |
 | Compliment     | 11            |
-| Category       | 47            | 
-| City           | 511           |
+| Category       | 511            | 
+| City           | 47           |
 
 ### Relation Statistics
 | Relation            |#Relation      |
